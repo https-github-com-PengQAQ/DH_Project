@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 36136394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb9e843dd97221c806181612405fc432
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f96c77610bcf71e508d3affca8f517f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0ba370816679014d954e50325d3c51b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 180d05f969236394f85a191ce09d8751, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AB_Resources/UI/Tips.prefab
+- Assets/AB_Resources/UI/Loding.prefab
+- Assets/AB_Resources/UI/Game.prefab
+- Assets/AB_Resources/UI/Main.prefab
+- Assets/AB_Resources/UI/Shop.prefab
+- Assets/AB_Resources/UI/Choose.prefab
+- Assets/AB_Resources/UI/Stop.prefab
+- Assets/AB_Resources/UI/Dead.prefab
+- Assets/AB_Resources/UI/Through.prefab
+Dependencies:
+- C:/Unity/DH_Project/Assets/StreamingAssets/Windows/ui/texture.ab

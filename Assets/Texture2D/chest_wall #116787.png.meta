@@ -1,0 +1,2156 @@
+fileFormatVersion: 2
+guid: 0f076259ad1abc64cb586f97aecaef67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8391192772087592081
+    second: chest_wall #116787_0
+  - first:
+      213: 8457481387125273385
+    second: chest_wall #116787_1
+  - first:
+      213: 943812123368823609
+    second: chest_wall #116787_2
+  - first:
+      213: 8536811584930341450
+    second: chest_wall #116787_3
+  - first:
+      213: -1332364683440317666
+    second: chest_wall #116787_4
+  - first:
+      213: -2808517062048938687
+    second: chest_wall #116787_5
+  - first:
+      213: 1541209704111299705
+    second: chest_wall #116787_6
+  - first:
+      213: 5458003872689759853
+    second: chest_wall #116787_7
+  - first:
+      213: 2808280172964763408
+    second: chest_wall #116787_8
+  - first:
+      213: -1870963037947948783
+    second: chest_wall #116787_9
+  - first:
+      213: 7674453712904397481
+    second: chest_wall #116787_10
+  - first:
+      213: -3267310492096020092
+    second: chest_wall #116787_11
+  - first:
+      213: -4627780645384851080
+    second: chest_wall #116787_12
+  - first:
+      213: -7792718611273991162
+    second: chest_wall #116787_13
+  - first:
+      213: 1557427499600802017
+    second: chest_wall #116787_14
+  - first:
+      213: 3961607724776313833
+    second: chest_wall #116787_15
+  - first:
+      213: 1573660649131708583
+    second: chest_wall #116787_16
+  - first:
+      213: -8326394685964964464
+    second: chest_wall #116787_17
+  - first:
+      213: -8343148943897546931
+    second: chest_wall #116787_18
+  - first:
+      213: 4051811466345270039
+    second: chest_wall #116787_19
+  - first:
+      213: -5333118824540121525
+    second: chest_wall #116787_20
+  - first:
+      213: -4144141583239857691
+    second: chest_wall #116787_21
+  - first:
+      213: 1916419286860795642
+    second: chest_wall #116787_22
+  - first:
+      213: 2920421156892952344
+    second: chest_wall #116787_23
+  - first:
+      213: 5190630485120697910
+    second: chest_wall #116787_24
+  - first:
+      213: -3106398699289566446
+    second: chest_wall #116787_25
+  - first:
+      213: -2190515351607994806
+    second: chest_wall #116787_26
+  - first:
+      213: -6602364190759270066
+    second: chest_wall #116787_27
+  - first:
+      213: 1545314850451245741
+    second: chest_wall #116787_28
+  - first:
+      213: -4590332746313215220
+    second: chest_wall #116787_29
+  - first:
+      213: -7974921465816898330
+    second: chest_wall #116787_30
+  - first:
+      213: 64235822379629141
+    second: chest_wall #116787_31
+  - first:
+      213: 3585713221741493083
+    second: chest_wall #116787_32
+  - first:
+      213: -6782446431220025773
+    second: chest_wall #116787_33
+  - first:
+      213: 8903317422232946026
+    second: chest_wall #116787_34
+  - first:
+      213: 3277771208742380370
+    second: chest_wall #116787_35
+  - first:
+      213: -5500516572413977834
+    second: chest_wall #116787_36
+  - first:
+      213: -1212090361767552057
+    second: chest_wall #116787_37
+  - first:
+      213: 7887918098891027187
+    second: chest_wall #116787_38
+  - first:
+      213: 2956257168259384984
+    second: chest_wall #116787_39
+  - first:
+      213: -6849180222580607736
+    second: chest_wall #116787_40
+  - first:
+      213: -9159562449991926822
+    second: chest_wall #116787_41
+  - first:
+      213: 5466794203776393647
+    second: chest_wall #116787_42
+  - first:
+      213: 2109561150947663213
+    second: chest_wall #116787_43
+  - first:
+      213: -8858177838942728776
+    second: chest_wall #116787_44
+  - first:
+      213: -5068686841718828943
+    second: chest_wall #116787_45
+  - first:
+      213: -1680467389195778824
+    second: chest_wall #116787_46
+  - first:
+      213: 8652441024635828463
+    second: chest_wall #116787_47
+  - first:
+      213: -8085466467090220122
+    second: chest_wall #116787_48
+  - first:
+      213: 4753040801740591119
+    second: chest_wall #116787_49
+  - first:
+      213: 6260641027690821110
+    second: chest_wall #116787_50
+  - first:
+      213: -7238796146553826984
+    second: chest_wall #116787_51
+  - first:
+      213: 6315856531789606456
+    second: chest_wall #116787_52
+  - first:
+      213: -4802370320738755891
+    second: chest_wall #116787_53
+  - first:
+      213: -6264776036537240313
+    second: chest_wall #116787_54
+  - first:
+      213: 3718385730368113191
+    second: chest_wall #116787_55
+  - first:
+      213: 1385564338549417646
+    second: chest_wall #116787_56
+  - first:
+      213: -6983301273490460589
+    second: chest_wall #116787_57
+  - first:
+      213: -8269383151235983030
+    second: chest_wall #116787_58
+  - first:
+      213: 3256002679458323063
+    second: chest_wall #116787_59
+  - first:
+      213: -6653602642140664964
+    second: chest_wall #116787_60
+  - first:
+      213: 484156857978153782
+    second: chest_wall #116787_61
+  - first:
+      213: 3716031617604270755
+    second: chest_wall #116787_62
+  - first:
+      213: -294855281832053827
+    second: chest_wall #116787_63
+  - first:
+      213: 3840836246554133498
+    second: chest_wall #116787_64
+  - first:
+      213: 8797866655634392406
+    second: chest_wall #116787_65
+  - first:
+      213: -8714761741329346040
+    second: chest_wall #116787_66
+  - first:
+      213: -6856201237704192201
+    second: chest_wall #116787_67
+  - first:
+      213: -2695191757562661815
+    second: chest_wall #116787_68
+  - first:
+      213: 8315472612172145375
+    second: chest_wall #116787_69
+  - first:
+      213: 7865230736038718616
+    second: chest_wall #116787_70
+  - first:
+      213: -3264756515045559241
+    second: chest_wall #116787_71
+  - first:
+      213: -4526361385622080473
+    second: chest_wall #116787_72
+  - first:
+      213: 591588500291997848
+    second: chest_wall #116787_73
+  - first:
+      213: -5478042860827765005
+    second: chest_wall #116787_74
+  - first:
+      213: -2435786285880214901
+    second: chest_wall #116787_75
+  - first:
+      213: 4301650569437741354
+    second: chest_wall #116787_76
+  - first:
+      213: 6769248868308310165
+    second: chest_wall #116787_77
+  - first:
+      213: 5461765526921150934
+    second: chest_wall #116787_78
+  - first:
+      213: -7330406299160151346
+    second: chest_wall #116787_79
+  - first:
+      213: 3896282900119106347
+    second: chest_wall #116787_80
+  - first:
+      213: 5652535193532532083
+    second: chest_wall #116787_81
+  - first:
+      213: -3818528572767932149
+    second: chest_wall #116787_82
+  - first:
+      213: 3165257240110609401
+    second: chest_wall #116787_83
+  - first:
+      213: 1260036475670463203
+    second: chest_wall #116787_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chest_wall #116787_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 224
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1943b162e51837470800000000000000
+      internalID: 8391192772087592081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 224
+        width: 63
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923741e03820f5570800000000000000
+      internalID: 8457481387125273385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 240
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1b1c2028191d00800000000000000
+      internalID: 943812123368823609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42663218e8d87670800000000000000
+      internalID: 8536811584930341450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 310
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b934c216d728de0800000000000000
+      internalID: -1332364683440317666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 241
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14503fabc942609d0800000000000000
+      internalID: -2808517062048938687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 310
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c50f96f0a736510800000000000000
+      internalID: 1541209704111299705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66216eba99bebb40800000000000000
+      internalID: 5458003872689759853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 241
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017565b30f309f620800000000000000
+      internalID: 2808280172964763408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 309
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1111a3f97010906e0800000000000000
+      internalID: -1870963037947948783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 311
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a228daadf2218a60800000000000000
+      internalID: 7674453712904397481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 187
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c5bb1b6e28a2d0800000000000000
+      internalID: -3267310492096020092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 157
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8717865a502d6cfb0800000000000000
+      internalID: -4627780645384851080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_13
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 160
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c307ce5b3bad390800000000000000
+      internalID: -7792718611273991162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 212
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0712d2f081d9510800000000000000
+      internalID: 1557427499600802017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 197
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e35cb67c357af630800000000000000
+      internalID: 3961607724776313833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 181
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09184d504c6d510800000000000000
+      internalID: 1573660649131708583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 181
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dab53f524b27c80800000000000000
+      internalID: -8326394685964964464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 178
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fafca4d3e273c80800000000000000
+      internalID: -8343148943897546931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b4d5caf0dea3830800000000000000
+      internalID: 4051811466345270039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 182
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4656566fa4fcf5b0800000000000000
+      internalID: -5333118824540121525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e93018cf2d0d76c0800000000000000
+      internalID: -4144141583239857691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 193
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8b02103d789a10800000000000000
+      internalID: 1916419286860795642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 191
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c323b19b678820800000000000000
+      internalID: 2920421156892952344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 149
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636cee1dce2d80840800000000000000
+      internalID: 5190630485120697910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 155
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2132c1667dad3e4d0800000000000000
+      internalID: -3106398699289566446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 149
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469d50c4e9b991e0800000000000000
+      internalID: -2190515351607994806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 149
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c804dfb0bf54a0800000000000000
+      internalID: -6602364190759270066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 111
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa48474baf027510800000000000000
+      internalID: 1545314850451245741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 140
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03582710bcdb40c0800000000000000
+      internalID: -4590332746313215220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 111
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a8560e23635190800000000000000
+      internalID: -7974921465816898330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 136
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55afaced32634e000800000000000000
+      internalID: 64235822379629141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb2506d2303c130800000000000000
+      internalID: 3585713221741493083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 107
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b30fd7e8efd1a0800000000000000
+      internalID: -6782446431220025773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 108
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65cdb21600fe8b70800000000000000
+      internalID: 8903317422232946026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 108
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a7184c8bfc7d20800000000000000
+      internalID: 3277771208742380370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 106
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b9d14025d3aa3b0800000000000000
+      internalID: -5500516572413977834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 63
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9b27ec3acd2fe0800000000000000
+      internalID: -1212090361767552057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 117
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f236cd08b3877d60800000000000000
+      internalID: 7887918098891027187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_39
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 100
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8968dca4b3cb60920800000000000000
+      internalID: 2956257168259384984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 111
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805b37640e2d2f0a0800000000000000
+      internalID: -6849180222580607736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 107
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb793e2b72b2e080800000000000000
+      internalID: -9159562449991926822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1a1403d54fddb40800000000000000
+      internalID: 5466794203776393647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 102
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d133a90baa64d10800000000000000
+      internalID: 2109561150947663213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 98
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdc498203e611580800000000000000
+      internalID: -8858177838942728776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 86
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17017a92c2868a9b0800000000000000
+      internalID: -5068686841718828943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 86
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48b5220d7cda8e0800000000000000
+      internalID: -1680467389195778824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 86
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe87f61f445a31870800000000000000
+      internalID: 8652441024635828463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 86
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab31c93617aacf80800000000000000
+      internalID: -8085466467090220122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 86
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009fae2d6136f140800000000000000
+      internalID: 4753040801740591119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 87
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f57fb928d342e650800000000000000
+      internalID: 6260641027690821110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851513be141aa8b90800000000000000
+      internalID: -7238796146553826984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e66a58d0e66a750800000000000000
+      internalID: 6315856531789606456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_53
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcadc7823ad8a5db0800000000000000
+      internalID: -4802370320738755891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70571d0136b0f09a0800000000000000
+      internalID: -6264776036537240313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a0974fe1c5a9330800000000000000
+      internalID: 3718385730368113191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6efa4cc638a3310800000000000000
+      internalID: 1385564338549417646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 64
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350711aad74561f90800000000000000
+      internalID: -6983301273490460589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a499af646df3d3d80800000000000000
+      internalID: -8269383151235983030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 64
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a55d89f25af2d20800000000000000
+      internalID: 3256002679458323063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_60
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 65
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bea9636a7a9a3a0800000000000000
+      internalID: -6653602642140664964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 65
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b6b5fd81218b600800000000000000
+      internalID: 484156857978153782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 65
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3c6d511ff19330800000000000000
+      internalID: 3716031617604270755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_63
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 65
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b042fea678ebf0800000000000000
+      internalID: -294855281832053827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_64
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3cd4477346d4530800000000000000
+      internalID: 3840836246554133498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 46
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65587563c1d481a70800000000000000
+      internalID: 8797866655634392406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 70
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80256e97e52fe0780800000000000000
+      internalID: -8714761741329346040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 46
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f4c0ecc41e9d0a0800000000000000
+      internalID: -6856201237704192201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_68
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 58
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944bae05061c89ad0800000000000000
+      internalID: -2695191757562661815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_69
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 63
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a204984e766370800000000000000
+      internalID: 8315472612172145375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6212cea9e62d60800000000000000
+      internalID: 7865230736038718616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 48
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734319a3f3141b2d0800000000000000
+      internalID: -3264756515045559241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_72
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 56
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72473fc2d422f21c0800000000000000
+      internalID: -4526361385622080473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905c1d4b9eb53800800000000000000
+      internalID: 591588500291997848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_74
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 44
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f61fffba051af3b0800000000000000
+      internalID: -5478042860827765005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_75
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 45
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a77514749523ed0800000000000000
+      internalID: -2435786285880214901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 45
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21813bd66882bb30800000000000000
+      internalID: 4301650569437741354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_77
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 54
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985bbf0bf331fd50800000000000000
+      internalID: 6769248868308310165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_78
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 46
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10c9e1fc61ccb40800000000000000
+      internalID: 5461765526921150934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_79
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 14
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf54f1f4a254a90800000000000000
+      internalID: -7330406299160151346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_80
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 35
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23370e77a0621630800000000000000
+      internalID: 3896282900119106347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_81
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 14
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37586e26fc6d17e40800000000000000
+      internalID: 5652535193532532083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_82
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 29
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01fc779e7cd10bc0800000000000000
+      internalID: -3818528572767932149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_83
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 22
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b68b80b04deb20800000000000000
+      internalID: 3165257240110609401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_wall #116787_84
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 13
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28f58af7c8c7110800000000000000
+      internalID: 1260036475670463203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

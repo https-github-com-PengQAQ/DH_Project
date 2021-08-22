@@ -18,16 +18,27 @@ public class LingtningEvent : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.C))
+        {
             p = GameObject.Find("Player(Clone)");
-        if (isLight == true)
             StartCoroutine(EventLight());
+        }
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            isLight = false;
+        }
     }
 
 
     IEnumerator EventLight()
     {
-        yield return new WaitForSeconds(3f);
-        GameObject ob = Instantiate(lightning);
-        
+        for(; ; )
+        {
+            if (isLight == false)
+                break;
+            yield return new WaitForSeconds(3f);
+            GameObject ob = Instantiate(lightning);
+            ob.transform.position = new Vector3(p.transform.position.x, p.transform.position.y + 2f, p.transform.position.z);
+        }
+       
     }    
 }

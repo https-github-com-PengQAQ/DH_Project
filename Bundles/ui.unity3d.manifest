@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 659732104
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29e5bcadd7167f1a4ffcbe32d0a00433
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d806c10c845d38dc2cb3af4cd3daaa14
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf09644190e254d42b2377c2a0d229d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b077cc658f75314f88e99c27af11139, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d147e39c908bab4c8891015450a06a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 180d05f969236394f85a191ce09d8751, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df90316df248cf54ba8c39aac8d4bcec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93aca64f324b16541988e792e1f80c2e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Prefab/UI/Tips.prefab
+- Assets/Resources/Prefab/UI/Game.prefab
+- Assets/Resources/Prefab/UI/Main.prefab
+- Assets/Resources/Prefab/UI/Shop.prefab
+- Assets/Resources/Prefab/UI/Bag.prefab
+- Assets/Resources/Prefab/UI/Stop.prefab
+Dependencies: []
