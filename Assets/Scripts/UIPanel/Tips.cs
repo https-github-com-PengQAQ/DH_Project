@@ -1,13 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-public class Tips : BaseUI
+public class Tips : MonoBehaviour
 {
-    public GameObject point;
-    public override void OnOpen()
+    public void fun()
     {
-        base.OnOpen();
-
-        //transform.DOLocalMove(point.transform.position, 2);
+        this.gameObject.SetActive(false);
     }
 }

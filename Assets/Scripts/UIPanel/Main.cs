@@ -9,12 +9,15 @@ public class Main : BaseUI
     {
         UIManager.Instance.showUI(panel);
     }
+
     public void popPanel()
     {
         UIManager.Instance.popPanel();
     }
     public void openSecen()
     {
-        SceneManager.LoadScene(1, LoadSceneMode.Additive);
+        
+        SceneManager.LoadScene(2, LoadSceneMode.Additive);
+
     }
 }

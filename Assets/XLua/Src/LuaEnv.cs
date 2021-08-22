@@ -459,6 +459,7 @@ namespace XLua
                 refQueue.Enqueue(action);
             }
         }
+        
 
         private string init_xlua = @" 
             local metatable = {}

@@ -20,7 +20,7 @@ public class PlayerControl : MonoBehaviour
 	public bool inputEnable;    //接受输入开关
 	public Animator myAnimator; //动画
 	public bool isGround;       //是否在地面
-	public BoxCollider2D myFeet;
+	public CapsuleCollider2D myFeet;
 	public int jumpCount = 2;   //跳跃次数
 	public bool jumpState;      //跳跃状态
 	public float jumpPower;     //跳跃力
@@ -28,13 +28,16 @@ public class PlayerControl : MonoBehaviour
 	public float rushtime;      //冲刺时间
 	public bool isCanRush;      //冲刺开关
 	public PlayDir nowDir;      //玩家现在的方向
+	public float minHight;
 	public GameObject attack;
+	private Ray2D ray;
 								// Use this for initialization
 	void Start()
 	{
 		myRigidody = GetComponent<Rigidbody2D>();
 		myAnimator = GetComponent<Animator>();
-		myFeet = GetComponent<BoxCollider2D>();
+		myFeet = GetComponent<CapsuleCollider2D>();
+		ray = new Ray2D(transform.position, Vector2.down);
 
 		nowDir = PlayDir.Left;
 		gravityEnable = true;
@@ -42,6 +45,7 @@ public class PlayerControl : MonoBehaviour
 		isGround = true;
 		jumpState = false;
 		isCanRush = true;
+		
 	}
 
 	// Update is called once per frame
@@ -70,6 +74,8 @@ public class PlayerControl : MonoBehaviour
 			myRigidody.gravityScale = 1;
 
 	}
+
+
 	public void Attack()
 	{
 		if (!inputEnable)
@@ -157,7 +163,7 @@ public class PlayerControl : MonoBehaviour
 		{
 			if (!isGround && myRigidody.velocity.y > Mathf.Epsilon && gravityEnable)
 			{
-				Vector2 jumpVel = new Vector2(0.0f, -1);
+				Vector2 jumpVel = new Vector2(0.0f, -0.5f);
 				myRigidody.velocity = Vector2.up * jumpVel;
 			}
 		}
@@ -168,7 +174,9 @@ public class PlayerControl : MonoBehaviour
 	/// </summary>
 	void CheckGround()
 	{
-		isGround = myFeet.IsTouchingLayers(LayerMask.GetMask("Ground"));
+		isGround = myFeet.IsTouchingLayers(512);
+		RaycastHit2D hit;
+		
 		Debug.Log(isGround);
 		if (isGround)   //重置跳跃
 		{
@@ -221,12 +229,10 @@ public class PlayerControl : MonoBehaviour
 
 	void UpdateAnimatorState()
 	{
+		
+		print(myFeet.gameObject.layer);
 		isGround = myFeet.IsTouchingLayers(LayerMask.GetMask("Ground"));
-        if (isGround == false)
-        {
-			;
-		}
-
+		
         if (isGround)   //重置跳跃
 		{
 			jumpCount = 2;
